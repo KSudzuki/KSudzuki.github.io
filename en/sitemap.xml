@@ -80,12 +80,6 @@
                 href="https://KSudzuki.github.io/post/"
                 />
   </url><url>
-    <loc>https://KSudzuki.github.io/ru/post/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://KSudzuki.github.io/tags/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -111,9 +105,6 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/post/getting-started/"
                 />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/post/getting-started/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -168,6 +159,8 @@
   </url><url>
     <loc>https://KSudzuki.github.io/ru/admin/</loc>
   </url><url>
+    <loc>https://KSudzuki.github.io/ru/post/</loc>
+  </url><url>
     <loc>https://KSudzuki.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -179,5 +172,7 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/publication_types/"
                 />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/</loc>
   </url>
 </urlset>
