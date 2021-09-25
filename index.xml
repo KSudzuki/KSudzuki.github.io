@@ -99,6 +99,15 @@
     </item>
     
     <item>
+      <title>Проект</title>
+      <link>https://KSudzuki.github.io/ru/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KSudzuki.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;Привет! Сейчас работаю над индивидуальным проектом по созданию сайта на тему «научное программирование». Это очень интересно и увлекательно. Мы делаем это с помощью Hugo и Github, здесь также используется язык Golang.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://KSudzuki.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

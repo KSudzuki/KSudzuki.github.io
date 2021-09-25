@@ -145,6 +145,12 @@
                 href="https://KSudzuki.github.io/project/"
                 />
   </url><url>
+    <loc>https://KSudzuki.github.io/ru/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://KSudzuki.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -172,7 +178,5 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/publication_types/"
                 />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/</loc>
   </url>
 </urlset>
