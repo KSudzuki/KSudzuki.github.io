@@ -41,6 +41,19 @@
                 href="https://KSudzuki.github.io/ru/categories/"
                 />
   </url><url>
+    <loc>https://KSudzuki.github.io/ru/tag/deep-learning/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/tag/deep-learning/"
+                />
+  </url><url>
     <loc>https://KSudzuki.github.io/ru/tag/post/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,6 +93,19 @@
                 href="https://KSudzuki.github.io/ru/post/"
                 />
   </url><url>
+    <loc>https://KSudzuki.github.io/ru/project/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/project/"
+                />
+  </url><url>
     <loc>https://KSudzuki.github.io/ru/tags/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -93,6 +119,19 @@
                 href="https://KSudzuki.github.io/ru/tags/"
                 />
   </url><url>
+    <loc>https://KSudzuki.github.io/ru/project/example/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/project/example/"
+                />
+  </url><url>
     <loc>https://KSudzuki.github.io/ru/post/getting-started/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -104,45 +143,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://KSudzuki.github.io/ru/post/getting-started/"
-                />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://KSudzuki.github.io/tag/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://KSudzuki.github.io/ru/tag/deep-learning/"
-                />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://KSudzuki.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://KSudzuki.github.io/ru/project/"
-                />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://KSudzuki.github.io/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://KSudzuki.github.io/ru/project/example/"
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/ru/admin/</loc>

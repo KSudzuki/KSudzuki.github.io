@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Проект</title>
+      <link>https://KSudzuki.github.io/ru/project/example/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://KSudzuki.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;Привет! Сейчас работаю над индивидуальным проектом по созданию сайта на тему «научное программирование». Это очень интересно и увлекательно. Мы делаем это с помощью Hugo и Github, здесь также используется язык Golang.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Создание сайта!</title>
       <link>https://KSudzuki.github.io/ru/post/getting-started/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
@@ -86,15 +95,6 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Проект</title>
-      <link>https://KSudzuki.github.io/ru/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://KSudzuki.github.io/ru/project/example/</guid>
-      <description>&lt;p&gt;Привет! Сейчас работаю над индивидуальным проектом по созданию сайта на тему «научное программирование». Это очень интересно и увлекательно. Мы делаем это с помощью Hugo и Github, здесь также используется язык Golang.&lt;/p&gt;
 </description>
     </item>
     

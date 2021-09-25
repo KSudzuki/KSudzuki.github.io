@@ -5,7 +5,7 @@
     <link>https://KSudzuki.github.io/ru/tag/deep-learning/</link>
       <atom:link href="https://KSudzuki.github.io/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://KSudzuki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Проект</title>
       <link>https://KSudzuki.github.io/ru/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://KSudzuki.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Привет! Сейчас работаю над индивидуальным проектом по созданию сайта на тему «научное программирование». Это очень интересно и увлекательно. Мы делаем это с помощью Hugo и Github, здесь также используется язык Golang.&lt;/p&gt;
 </description>

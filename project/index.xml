@@ -5,7 +5,7 @@
     <link>https://KSudzuki.github.io/project/</link>
       <atom:link href="https://KSudzuki.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://KSudzuki.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Project</title>
       <link>https://KSudzuki.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://KSudzuki.github.io/project/example/</guid>
       <description>&lt;p&gt;Hi! Now I am working on an individual project for creating a website on the subject of &amp;ldquo;scientific programming&amp;rdquo;. It is very interesting and exciting. We do this with the help of Hugo and Github, and the Golang language is also used here.&lt;/p&gt;
 </description>
