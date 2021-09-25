@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://KSudzuki.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/tag/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/category/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -105,6 +105,15 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/post/getting-started/"
                 />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -118,9 +127,6 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/tag/deep-learning/"
                 />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -148,9 +154,6 @@
                 href="https://KSudzuki.github.io/project/"
                 />
   </url><url>
-    <loc>https://KSudzuki.github.io/ru/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://KSudzuki.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -164,8 +167,6 @@
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/ru/admin/</loc>
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/post/</loc>
   </url><url>
     <loc>https://KSudzuki.github.io/publication_types/</loc>
     <xhtml:link
