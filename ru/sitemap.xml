@@ -15,19 +15,6 @@
                 href="https://KSudzuki.github.io/ru/tag/academic/"
                 />
   </url><url>
-    <loc>https://KSudzuki.github.io/ru/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://KSudzuki.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://KSudzuki.github.io/ru/categories/"
-                />
-  </url><url>
     <loc>https://KSudzuki.github.io/ru/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,6 +26,19 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://KSudzuki.github.io/ru/"
+                />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/categories/"
                 />
   </url><url>
     <loc>https://KSudzuki.github.io/ru/tag/post/</loc>
