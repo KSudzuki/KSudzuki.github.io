@@ -83,6 +83,9 @@
                 href="https://KSudzuki.github.io/post/"
                 />
   </url><url>
+    <loc>https://KSudzuki.github.io/ru/post/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://KSudzuki.github.io/project/example/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -108,6 +111,9 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/project/"
                 />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/tags/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
@@ -135,6 +141,22 @@
                 href="https://KSudzuki.github.io/post/getting-started/"
                 />
   </url><url>
+    <loc>https://KSudzuki.github.io/category/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/category/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/category/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F/"
+                />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/post/getting-started/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://KSudzuki.github.io/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -149,8 +171,6 @@
   </url><url>
     <loc>https://KSudzuki.github.io/ru/admin/</loc>
   </url><url>
-    <loc>https://KSudzuki.github.io/ru/post/</loc>
-  </url><url>
     <loc>https://KSudzuki.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,7 +182,5 @@
                 hreflang="en"
                 href="https://KSudzuki.github.io/publication_types/"
                 />
-  </url><url>
-    <loc>https://KSudzuki.github.io/ru/</loc>
   </url>
 </urlset>
