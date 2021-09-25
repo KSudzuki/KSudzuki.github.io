@@ -4,13 +4,23 @@
   <url>
     <loc>https://KSudzuki.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/tag/academic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/tag/academic/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://KSudzuki.github.io/zh/"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -22,8 +32,8 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://KSudzuki.github.io/zh/categories/"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,19 +43,49 @@
   </url><url>
     <loc>https://KSudzuki.github.io/tag/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/tag/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/tag/post/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/category/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/category/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/category/post/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/post/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://KSudzuki.github.io/zh/tags/"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,34 +95,97 @@
   </url><url>
     <loc>https://KSudzuki.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/post/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/post/getting-started/"
+                />
   </url><url>
-    <loc>https://KSudzuki.github.io/slides/</loc>
+    <loc>https://KSudzuki.github.io/ru/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KSudzuki.github.io/slides/example/</loc>
+    <loc>https://KSudzuki.github.io/ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/tag/deep-learning/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/project/example/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/project/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/publication-type/1/"
+                />
   </url><url>
     <loc>https://KSudzuki.github.io/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/publication/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/publication/example/"
+                />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/publication_types/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://KSudzuki.github.io/zh/publication_types/"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,7 +195,34 @@
   </url><url>
     <loc>https://KSudzuki.github.io/publication/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/publication/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://KSudzuki.github.io/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://KSudzuki.github.io/ru/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://KSudzuki.github.io/admin/"
+                />
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/admin/</loc>
+  </url><url>
+    <loc>https://KSudzuki.github.io/ru/post/</loc>
   </url>
 </urlset>
